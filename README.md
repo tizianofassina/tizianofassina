@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Tiziano Fassina
+# 👋 Hi, I’m Tiziano Fassina
 
-- 🎓 Master’s student in Applied Mathematics & AI @ Sorbonne University
-- 🔍 Focused on Statistics, Machine Learning, and Data Science
+🎓 PhD student at Mines Paris – PSL, working on Deep Learning for Extreme Event simulation  
+🔍 Research focus: Statistics, Machine Learning, and Data Science  
 
-- 📚 Holding a BA and a MSc in Philosophy with a thesis on the epistemology of randomized clinical trials
-- 🤝 Blending analytical rigor with deep philosophical insights
-- 💡 Passionate about exploring the intersection of AI, ethics, and medicine
+📚 Background:  
+- BA & MSc in Philosophy, thesis on the epistemology of randomized clinical trials  
+- BSc & MSc in Mathematics & Statistics, specializing in Probability, Machine Learning, and Deep Learning  
 
-- 🌱 Lifelong learner driven by curiosity and a love for intellectual challenges
-- 🌍 Interested in personal well-being, literature, and the philosophy of science
-- 😊 I believe that happiness lies in the contemplation of beauty and the pleasures of human interactions
+🤝 I combine analytical rigor with philosophical insight  
+💡 Passionate about using technology to address human challenges  
+
+🌱 Lifelong learner, driven by curiosity and intellectual challenges  
+🌍 Interests: personal well-being, literature, and the philosophy of science  
+😊 Believer in finding happiness through contemplation of beauty and meaningful human interactions

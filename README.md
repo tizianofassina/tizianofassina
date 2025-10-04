@@ -10,6 +10,5 @@
 🤝 I combine analytical rigor with philosophical insight  
 💡 Passionate about using technology to address human challenges  
 
-🌱 Lifelong learner, driven by curiosity and intellectual challenges  
 🌍 Interests: personal well-being, literature, and the philosophy of science  
 😊 Believer in Moore’s Intuitional Utilitarianism and in finding happiness through the contemplation of beauty and meaningful human interactions
